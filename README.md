@@ -2,13 +2,26 @@
 
 **Calculation Application**
 
-* Flow chart
+**Flow chart**
 ![](files/flow.png)
 
-* Home screen:
+**Home screen**:
+
 ![](files/home.png)
-* Detail screen
+
+**formati screen**
+
 ![](files/detail1.png)
+
+**differenza %  screen**
+
+*excel*
+![](files/excel2.png)
+
+*screen*
+
+![](files/detail2.png)
+
 
 **Things you may want to cover:**
 
